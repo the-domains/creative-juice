@@ -4,7 +4,7 @@
         <description><![CDATA[Creative Juice]]></description>
         <link>https://thegrid.ai/creative-juice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 12:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 12:27:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creative-juice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bon Da Mat: Lo Spacca - Creative Juice Parma]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.creative-juice.it/ita/Portfolio/Detail/Bon-Da-Mat-Lo-Spacca/Work</link>
             <guid isPermaLink="false">917780ce-ecc1-457e-8071-6d5a5a29f165</guid>
             <pubDate>Sat, 12 Dec 2015 12:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Lamborghini ADV]]></title>
-            <description><![CDATA[<article><h1>New Lamborghini ADV</h1><p>New Lamborghini Adv</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96f4085df68bc12d0349c4dcd1f51e43f7c5928.jpg"></article>]]></description>
-            <link>https://thegrid.ai/creative-juice/new-lamborghini-adv/index.html</link>
-            <guid isPermaLink="false">3e3b8d38-115f-474b-8441-f5bcf439b3de</guid>
-            <pubDate>Sat, 12 Dec 2015 02:34:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
