@@ -1,0 +1,28 @@
+name: Creative Juice
+favicon: null
+layout_spectrum: 0.8671260180417448
+typography_spectrum: 0.7855518169235438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.37251650751568377
+  lightness: 0.14575159456580877
+  saturation: 0.1504885721951723
+  rhythmicContrast: 0.8014687029644847
+purpose: []
