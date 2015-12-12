@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Creative Juice]]></title>
         <description><![CDATA[Creative Juice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creative-juice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 02:34:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 12:27:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-juice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bon Da Mat: Lo Spacca - Creative Juice Parma]]></title>
+            <description><![CDATA[<article><h1>Bon Da Mat: Lo Spacca - Creative Juice Parma</h1><p>share BON DA MAT, un viaggio culinario attraverso i migliori panini d'Italia. La prima "pillola" è sul mitico Spacca di Pepén, uno dei posti culto, che tutti conoscono a Parma. Preparato usando carne arrosto, insalata, pomodori, maionese e salsa di peperoni. Tutto (compreso il pane e le salse) è preparato dallo staff di Pepén ed è assolutamente delizioso.</p><img src="http://www.creative-juice.it/Cms_Data/Contents/creativejuice/Folders/ImageGallery/~contents/ZTL2P36JKMUDL2ZZ/061_BonDaMatLoSpacca_Detail02.jpg"></article>]]></description>
+            <link>http://www.creative-juice.it/ita/Portfolio/Detail/Bon-Da-Mat-Lo-Spacca/Work</link>
+            <guid isPermaLink="false">917780ce-ecc1-457e-8071-6d5a5a29f165</guid>
+            <pubDate>Sat, 12 Dec 2015 12:23:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Lamborghini ADV]]></title>
-            <description><![CDATA[<article><h1>New Lamborghini ADV</h1><p>New Lamborghini Adv</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f53902ec-1cb7-4ba8-92eb-f38ca29281a5.jpg"></article>]]></description>
-            <link>undefinednew-lamborghini-adv/index.html</link>
+            <description><![CDATA[<article><h1>New Lamborghini ADV</h1><p>New Lamborghini Adv</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96f4085df68bc12d0349c4dcd1f51e43f7c5928.jpg"></article>]]></description>
+            <link>https://thegrid.ai/creative-juice/new-lamborghini-adv/index.html</link>
             <guid isPermaLink="false">3e3b8d38-115f-474b-8441-f5bcf439b3de</guid>
             <pubDate>Sat, 12 Dec 2015 02:34:21 GMT</pubDate>
         </item>
